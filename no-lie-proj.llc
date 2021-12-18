@@ -1,0 +1,11 @@
+{
+  version: 1,
+  mediaFileName: 'no-lie.mp4',
+  cutSegments: [
+    {
+      start: 67.71405,
+      end: 85.202324,
+      name: '',
+    },
+  ],
+}
